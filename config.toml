@@ -24,3 +24,8 @@ title = "Jane Doe | Economics PhD"
     name = "Teaching"
     url = "/teaching/"
     weight = 4
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
