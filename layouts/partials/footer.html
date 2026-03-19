@@ -1,0 +1,18 @@
+<footer class="site-footer">
+  <div class="container">
+    <div class="footer-content">
+      <p>&copy; {{ now.Year }} {{ .Site.Params.author }}. All rights reserved.</p>
+      <div class="footer-links">
+        <a href="mailto:jdoe@university.edu">Email</a>
+        <a href="https://scholar.google.com/" target="_blank" rel="noopener">Google Scholar</a>
+        <a href="https://twitter.com/" target="_blank" rel="noopener">Twitter/X</a>
+      </div>
+    </div>
+  </div>
+</footer>
+<script>
+  document.querySelector('.nav-toggle').addEventListener('click', function() {
+    document.querySelector('.site-nav').classList.toggle('open');
+    this.classList.toggle('open');
+  });
+</script>
