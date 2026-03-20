@@ -6,13 +6,13 @@ title: "Research"
 
 <div class="paper">
 
-### Title of Your Job Market Paper
+### [Your Job Market Paper Title]
 
-<p class="authors">Jane Doe</p>
+<p class="authors">Juliana Pinillos</p>
 <p class="venue">Job Market Paper, 2026</p>
 
 <p class="abstract">
-Abstract goes here. Briefly describe your research question, methodology, key findings, and policy implications. This is the first thing search committees will read, so make it compelling and concise. Aim for 100–150 words.
+[Abstract goes here. Briefly describe your research question, methodology, key findings, and policy implications.]
 </p>
 
 <div class="paper-links">
@@ -26,31 +26,13 @@ Abstract goes here. Briefly describe your research question, methodology, key fi
 
 <div class="paper">
 
-### Second Paper Title
+### [Working Paper Title]
 
-<p class="authors">Jane Doe and Coauthor Name</p>
+<p class="authors">Juliana Pinillos</p>
 <p class="venue">Working Paper, 2025</p>
 
 <p class="abstract">
-Abstract for your second paper. Describe the research question, approach, and main contribution.
-</p>
-
-<div class="paper-links">
-
-[Paper (PDF)](#) | [NBER/SSRN Link](#)
-
-</div>
-</div>
-
-<div class="paper">
-
-### Third Paper Title
-
-<p class="authors">Jane Doe, Coauthor A, and Coauthor B</p>
-<p class="venue">Working Paper, 2024</p>
-
-<p class="abstract">
-Abstract for your third paper. Summarize the key question, method, and findings.
+[Abstract for your working paper.]
 </p>
 
 <div class="paper-links">
@@ -62,5 +44,5 @@ Abstract for your third paper. Summarize the key question, method, and findings.
 
 ## Work in Progress
 
-- **Project Title** (with Coauthor Name) — Brief one-line description of the project.
-- **Another Project Title** — Brief one-line description.
+- **[Project Title]** — [Brief one-line description.]
+- **[Project Title]** — [Brief one-line description.]

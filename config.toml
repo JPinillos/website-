@@ -1,10 +1,10 @@
 baseURL = "/"
 languageCode = "en-us"
-title = "Jane Doe | Economics PhD"
+title = "Juliana Pinillos | Economics PhD"
 
 [params]
-  description = "PhD Candidate in Economics specializing in Urban and Environmental Economics"
-  author = "Jane Doe"
+  description = "PhD Candidate in Economics at USC specializing in Environmental and Applied Microeconomics"
+  author = "Juliana Pinillos"
   profileImage = "/images/profile.jpg"
 
 [menu]
