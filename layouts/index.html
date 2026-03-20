@@ -1,56 +1,18 @@
 {{ define "main" }}
-<section class="hero">
-  <div class="hero-content">
-    <div class="hero-text">
-      <p class="hero-tagline">PhD Candidate in Economics</p>
-      <h1>{{ .Site.Params.author }}</h1>
-      <p class="hero-fields">
-        <span class="field-tag">Environmental Economics</span>
-        <span class="field-tag">Applied Microeconomics</span>
-      </p>
-      <div class="hero-bio">
-        {{ .Content }}
-      </div>
-      <div class="hero-cta">
-        <a href="/research/" class="btn btn-primary">View Research</a>
-        <a href="/cv/" class="btn btn-outline">Download CV</a>
-      </div>
-    </div>
-    <div class="hero-image">
-      <div class="profile-frame">
-        <img src="{{ .Site.Params.profileImage }}" alt="Photo of {{ .Site.Params.author }}">
-      </div>
-    </div>
+<section class="hero-banner">
+  <div class="hero-banner-content">
+    <h1 class="hero-name">Juliana Pinillos</h1>
   </div>
 </section>
 
-<section class="home-section">
-  <h2>Research Interests</h2>
-  <div class="interest-grid">
-    <div class="interest-card">
-      <div class="interest-icon">&#9672;</div>
-      <h3>Environmental Economics</h3>
-      <p>Environmental policy, pollution externalities, environmental justice, and the intersection of urban and environmental systems.</p>
+<section class="about-section">
+  <div class="about-content">
+    <div class="about-photo">
+      <img src="{{ .Site.Params.profileImage }}" alt="Photo of {{ .Site.Params.author }}">
     </div>
-    <div class="interest-card">
-      <div class="interest-icon">&#9638;</div>
-      <h3>Applied Microeconomics</h3>
-      <p>Causal inference, quasi-experimental methods, and empirical analysis of policy impacts.</p>
+    <div class="about-text">
+      {{ .Content }}
     </div>
-    <div class="interest-card">
-      <div class="interest-icon">&#9960;</div>
-      <h3>Development &amp; Urban Economics</h3>
-      <p>Inequality in developing countries, health outcomes, spatial dynamics, and urban policy.</p>
-    </div>
-  </div>
-</section>
-
-<section class="home-section contact-section">
-  <h2>Contact</h2>
-  <div class="contact-info">
-    <p><strong>Email:</strong> <a href="mailto:pinillos@usc.edu">pinillos@usc.edu</a></p>
-    <p><strong>Office:</strong> Department of Economics, USC Dornsife</p>
-    <p><strong>Address:</strong> University of Southern California, Los Angeles, CA</p>
   </div>
 </section>
 {{ end }}

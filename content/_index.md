@@ -2,8 +2,8 @@
 title: "Home"
 ---
 
-I am a PhD candidate in Economics at the [University of Southern California](https://dornsife.usc.edu/econ/). My research lies at the intersection of **environmental economics** and **applied microeconomics**, where I study how environmental policies and urban dynamics affect inequality, health, and development outcomes.
+## Welcome!
 
-My work combines empirical evidence with economic theory to help design more effective policies, with a particular focus on developing countries.
+I'm a PhD Candidate in economics at the University of Southern California. I am interested in applied microeconomics, with a focus on urban and environmental economics.
 
-I am on the **2026–2027 job market**. I am available for interviews at the ASSA Annual Meeting in January 2027.
+You can check my CV [here](https://drive.google.com/file/d/12_RtCkZQCwO1OJ2D-uKfJZxFJtrntax8/view?usp=sharing).

@@ -1,8 +1,8 @@
 <header class="site-header">
   <div class="container header-inner">
-    <a href="/" class="site-logo">{{ .Site.Params.author }}</a>
     <nav class="site-nav">
-      {{ range .Site.Menus.main }}
+      {{ range $i, $e := .Site.Menus.main }}
+        {{ if $i }}<span class="nav-sep">&middot;</span>{{ end }}
         <a href="{{ .URL }}" class="nav-link{{ if $.IsMenuCurrent "main" . }} active{{ end }}">{{ .Name }}</a>
       {{ end }}
     </nav>
