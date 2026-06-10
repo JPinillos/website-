@@ -2,7 +2,7 @@ name: Deploy Hugo site to GitHub Pages
 
 on:
   push:
-    branches: ["main"]
+    branches: ["claude/design-econ-website-ip3aQ"]
   workflow_dispatch:
 
 permissions:
@@ -22,7 +22,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     env:
-      HUGO_VERSION: 0.145.0
+      HUGO_VERSION: 0.158.0
     steps:
       - name: Install Hugo CLI
         run: |
