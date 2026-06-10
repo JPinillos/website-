@@ -231,6 +231,12 @@ img { max-width: 100%; height: auto; }
   line-height: 1.8;
 }
 
+.about-text .bio-paragraph {
+  text-align: justify;
+  text-justify: inter-word;
+  hyphens: auto;
+}
+
 .about-text a {
   color: var(--accent);
   text-decoration: underline;
