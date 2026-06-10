@@ -8,7 +8,7 @@ title: "Research"
 
 ### Long-Term Effects of Slum Upgrading on Climate Resilience
 
-<span class="paper-draft-link">Draft (coming soon)</span> <a href="/primed-archives/" class="paper-draft-link">More about PRIMED</a>
+<span class="paper-draft-link">Draft (coming soon)</span>
 
 <details class="paper-abstract">
 <summary>Abstract</summary>
@@ -21,7 +21,7 @@ title: "Research"
 
 ### Rainwater Harvesting in Urban Settings as a Response to Water Shortages
 
-<span class="paper-stage stage-scale-up">Scale Up Data Collection</span> <span class="authors-inline">With Paulina Oliva, Alejandro Lopez, Hernan Bejarano</span>
+<span class="paper-stage stage-fieldwork">Fieldwork Implementation</span> <span class="authors-inline">With Paulina Oliva, Alejandro Lopez, Hernan Bejarano</span>
 
 <details class="paper-abstract">
 <summary>Abstract</summary>

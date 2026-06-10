@@ -1,4 +1,4 @@
-baseURL = "https://jpinillos.github.io/website-/"
+baseURL = "https://www.julianapinillos.com/"
 languageCode = "en-us"
 title = "Juliana Pinillos | Economics PhD"
 
@@ -22,7 +22,7 @@ title = "Juliana Pinillos | Economics PhD"
     weight = 3
   [[menu.main]]
     name = "CV"
-    url = "/cv/"
+    url = "/files/juliana-pinillos-cv.pdf"
     weight = 4
 
 [markup]
