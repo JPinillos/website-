@@ -2,20 +2,39 @@
 title: "Research"
 ---
 
-## Work in Progress
+## Working Papers
 
 <div class="paper">
 
-### Long-Term Effects of Slum Upgrading on Climate Resilience
+<div class="paper-heading">
+<h3 id="long-term-effects-of-slum-upgrading-on-climate-resilience">Long-Term Effects of Slum Upgrading on Climate Resilience and Urban Growth</h3>
+<span class="paper-stage stage-analysis">Job Market Paper</span>
+</div>
 
 <span class="paper-draft-link">Draft (coming soon)</span>
 
 <details class="paper-abstract">
 <summary>Abstract</summary>
-<p>This paper asks whether slum upgrading can serve as a form of climate adaptation. I study PRIMED, a large-scale program implemented in Medellín, Colombia, between 1993 and 2000 that combined neighborhood improvements with risk-mitigation infrastructure. Exploiting its incomplete rollout, I estimate long-run effects on disaster risk, urban development, and welfare. I find that upgraded neighborhoods experience fewer floods and landslides during extreme rainfall events than comparable untreated slums; the estimated reduction corresponds to 49% of the pre-intervention mean. The program also reshapes urban growth: housing and population density rise in treated areas, while non-upgraded slums continue expanding into higher-risk land. These changes do not appear to reflect gentrification, as population composition remains unchanged. I then embed the empirical estimates in a quantitative spatial model to measure citywide welfare effects. The results show that slum upgrading generates welfare gains through improved local amenities and reduced environmental risk exposure, highlighting place-based infrastructure as a tool for urban development and climate resilience.</p>
+<p>This paper studies the long-term effects of slum upgrading on exposure to natural disasters and urban growth. I study PRIMED, a large-scale program implemented in Medellin, Colombia, between 1993 and 2000 that combined neighborhood improvements with risk-mitigation infrastructure. To identify its effects, I exploit the program's incomplete rollout by comparing slums upgraded during phase I with slums from phase II that were scheduled but never treated. I find that upgrading reduces floods and landslides during extreme rainfall events relative to untreated slums, with larger reductions in riskier neighborhoods. The program also increased neighborhood population, primarily through an increase in low-skilled residents. Housing and population density also rose, with higher growth on lower-risk land. I embed these empirical estimates in a quantitative spatial model to measure citywide welfare effects. The results indicate that slum upgrading generates welfare gains for the city, with larger gains among low income residents. Two mechanisms explain this: improved local fundamental amenities and reduced disaster risk exposure. These findings suggest that place-based policies such as slum upgrading can simultaneously promote urban development and climate resilience.</p>
 </details>
 
 </div>
+
+<div class="paper">
+
+### Patchwork Water: Urban Growth, Strained Water Networks, and Household Water Burdens in the Horn of Africa
+
+<a class="paper-draft-link" href="/files/hargeisa-working-paper.pdf">Draft (PDF)</a>
+<br><span class="authors-inline">With Abdiaziz Ali Ahmed, Hernan Bejarano, Jingshu Chen, Kenneth Lee, Alejandro López-Aguilar, and Paulina Oliva</span>
+
+<details class="paper-abstract">
+<summary>Abstract</summary>
+<p>This paper describes how urban households secure water when piped networks are unreliable, using a representative sample of 2,197 households in Hargeisa, Somaliland — a rapidly growing, semi-arid city on the frontier of climate stress. Rather than relying on a single source, households assemble “patchwork” portfolios combining piped connections, tanker trucks, rainwater harvesting, and other sources, changing their composition across the dry and rainy seasons. Four findings emerge: (1) source portfolios vary widely across households and seasons; (2) unconnected households pay more and face more shortages; (3) costs and access are largely regressive; and (4) storage is a critical coping asset that poorer households cannot afford. Planned network expansion will narrow, but not eliminate, these inequalities.</p>
+</details>
+
+</div>
+
+## Work in Progress
 
 <div class="paper">
 
@@ -40,17 +59,25 @@ title: "Research"
 
 <div class="paper">
 
-### Informal Settlements and Natural Disaster Risk: Experimental Evidence from Medellín
+### Decentralized Water Solutions for Rapidly Growing Cities: Evidence from Hargeisa
 
-<span class="paper-stage stage-exploring">Exploring</span>
+<span class="paper-stage stage-pilot">Pilot development</span> <span class="authors-inline">With Paulina Oliva, Alejandro López-Aguilar, Hernan Bejarano, Jingshu Chen, Abdiaziz Ali Ahmed, and Kenneth Lee</span>
 
 </div>
 
 <div class="paper">
 
-### Decentralized Water Solutions for Rapidly Growing Cities: Evidence from Hargeisa
+### Cities on Alert: Risk and Urban Development in Brazil
 
-<span class="paper-stage stage-exploring">Exploring</span> <span class="authors-inline">With Paulina Oliva, Alejandro Lopez, Hernan Bejarano, Jingshu Chen</span>
+<span class="paper-stage stage-analysis">Data assembly</span> <span class="authors-inline">With Bruno Barsanetti and Pedro H. Chaves</span>
+
+</div>
+
+<div class="paper">
+
+### Informal Settlements and Natural Disaster Risk: Experimental Evidence from Medellín
+
+<span class="paper-stage stage-exploring">Exploratory</span>
 
 </div>
 
