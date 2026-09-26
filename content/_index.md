@@ -10,6 +10,4 @@ title: "Home"
 
 I will be on the 2026–2027 economics job market.
 
-**Fields:** Urban, Environmental, and Development Economics.
-
 You can check my CV [here](/files/juliana-pinillos-cv.pdf).
