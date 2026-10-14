@@ -51,7 +51,7 @@ title: "Research"
 
 <div class="paper">
 
-### Spatial Misallocation and Supply–Demand Feedback: Evidence from the Boda-Boda Market in Kampala
+### Dynamic Pricing as an Efficiency Tool in Uganda’s Electric Boda-Boda Network
 
 <span class="paper-stage stage-exploring">Data Agreement Signed</span> <span class="authors-inline">With Mychaela Paetow, Santiago Di Martini</span>
 
