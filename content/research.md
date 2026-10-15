@@ -11,7 +11,7 @@ title: "Research"
 <span class="paper-stage stage-analysis">Job Market Paper</span>
 </div>
 
-<a class="paper-draft-link" href="/files/slums_jmp.pdf" target="_blank" rel="noopener">Paper (PDF)</a>
+<span class="paper-draft-link">Updated draft coming soon</span>
 
 <details class="paper-abstract">
 <summary>Abstract</summary>
