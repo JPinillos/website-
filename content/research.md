@@ -13,10 +13,29 @@ title: "Research"
 
 <span class="paper-draft-link">Updated draft coming soon</span>
 
+<div class="paper-disclosures">
 <details class="paper-abstract">
 <summary>Abstract</summary>
 <p>This paper studies the long-term effects of slum upgrading on exposure to natural disasters and urban growth. I study PRIMED, a large-scale program implemented in Medellin, Colombia, between 1993 and 2000 that combined neighborhood improvements with risk-mitigation infrastructure. To identify its effects, I exploit the program's incomplete rollout by comparing slums upgraded during phase I with slums from phase II that were scheduled but never treated. I find that upgrading reduces landslides during extreme rainfall events relative to untreated slums. The program also increased neighborhood population, primarily through an increase in low income residents. Housing and population density also rose, with higher growth on lower-risk land. I embed these empirical estimates in a quantitative spatial model to measure citywide welfare effects. The results indicate that slum upgrading generates welfare gains for the city, with larger gains among low skilled residents. Two mechanisms explain this: improved local fundamental amenities and reduced disaster risk exposure. However, counterfactual scenarios suggest that more frequent disasters due to climate change lead to substantial welfare losses even when the protection provided by upgrading is maintained. These findings highlight how climate change can limit the long term effectiveness of infrastructure investments within cities.</p>
 </details>
+
+<details class="paper-presentations">
+<summary>Presentations</summary>
+<h4>Past presentations · 2026</h4>
+<ul>
+<li>CEGA Research Retreat, UC Berkeley</li>
+<li>Development Economic Seminar, USC</li>
+<li>Urban Economics Association Meeting, Federal Reserve Bank of Chicago</li>
+<li>Economics Seminar, Universidad ICESI, Colombia</li>
+<li>AREUEA International Conference, Universidad EAFIT, Medellín</li>
+</ul>
+<h4>Upcoming · 2026</h4>
+<ul>
+<li>Latin American Urban Economics Network (LAUrban), CAF Montevideo</li>
+<li>Second Mexico City Urban Economics Workshop, Banco de México</li>
+</ul>
+</details>
+</div>
 
 </div>
 
