@@ -2,34 +2,32 @@
 title: "Research"
 ---
 
-## Working Papers
+## Job Market Paper
 
 <div class="paper">
 
-<div class="paper-heading">
-<h3 id="long-term-effects-of-slum-upgrading-on-climate-resilience">Long-Term Effects of Slum Upgrading on Climate Resilience and Urban Growth</h3>
-<span class="paper-stage stage-analysis">Job Market Paper</span>
-</div>
+### Long-Term Effects of Slum Upgrading on Climate Resilience and Urban Growth
 
-<span class="paper-draft-link">Updated draft coming soon</span>
+<p class="paper-status">Updated draft coming soon.</p>
+<p class="paper-links-row"><a href="https://dornsife.usc.edu/wrigley/2024/08/23/impact-of-slum-upgrading-natural-disasters-in-medellin/" target="_blank" rel="noopener">Fieldwork in Medellín</a> · USC Wrigley Institute, 2024</p>
 
 <div class="paper-disclosures">
 <details class="paper-abstract">
 <summary>Abstract</summary>
-<p>This paper studies the long-term effects of slum upgrading on exposure to natural disasters and urban growth. I study PRIMED, a large-scale program implemented in Medellin, Colombia, between 1993 and 2000 that combined neighborhood improvements with risk-mitigation infrastructure. To identify its effects, I exploit the program's incomplete rollout by comparing slums upgraded during phase I with slums from phase II that were scheduled but never treated. I find that upgrading reduces landslides during extreme rainfall events relative to untreated slums. The program also increased neighborhood population, primarily through an increase in low income residents. Housing and population density also rose, with higher growth on lower-risk land. I embed these empirical estimates in a quantitative spatial model to measure citywide welfare effects. The results indicate that slum upgrading generates welfare gains for the city, with larger gains among low skilled residents. Two mechanisms explain this: improved local fundamental amenities and reduced disaster risk exposure. However, counterfactual scenarios suggest that more frequent disasters due to climate change lead to substantial welfare losses even when the protection provided by upgrading is maintained. These findings highlight how climate change can limit the long term effectiveness of infrastructure investments within cities.</p>
+<p>This paper studies the long-term effects of slum upgrading on exposure to natural disasters and urban growth. I study PRIMED, a large-scale program implemented in Medellín, Colombia, between 1993 and 2000 that combined neighborhood improvements with risk-mitigation infrastructure. To identify its effects, I exploit the program's incomplete rollout by comparing slums upgraded during phase I with slums from phase II that were scheduled but never treated. I find that upgrading reduces landslides during extreme rainfall events relative to untreated slums. The program also increased neighborhood population, primarily through an increase in low-income residents. Housing and population density also rose, with higher growth on lower-risk land. I embed these empirical estimates in a quantitative spatial model to measure citywide welfare effects. The results indicate that slum upgrading generates welfare gains for the city, with larger gains among low-skilled residents. Two mechanisms explain this: improved local fundamental amenities and reduced disaster risk exposure. However, counterfactual scenarios suggest that more frequent disasters due to climate change lead to substantial welfare losses even when the protection provided by upgrading is maintained. These findings highlight how climate change can limit the long-term effectiveness of infrastructure investments within cities.</p>
 </details>
 
 <details class="paper-presentations">
 <summary>Presentations</summary>
-<h4>Past presentations · 2026</h4>
+<h4>2026</h4>
 <ul>
 <li>CEGA Research Retreat, UC Berkeley</li>
-<li>Development Economic Seminar, USC</li>
+<li>Development Economics Seminar, USC</li>
 <li>Urban Economics Association Meeting, Federal Reserve Bank of Chicago</li>
 <li>Economics Seminar, Universidad ICESI, Colombia</li>
 <li>AREUEA International Conference, Universidad EAFIT, Medellín</li>
 </ul>
-<h4>Upcoming · 2026</h4>
+<h4>Upcoming</h4>
 <ul>
 <li>Latin American Urban Economics Network (LAUrban), CAF Montevideo</li>
 <li>Second Mexico City Urban Economics Workshop, Banco de México</li>
@@ -39,12 +37,14 @@ title: "Research"
 
 </div>
 
+## Working Papers
+
 <div class="paper">
 
 ### Patchwork Water: Urban Growth, Strained Water Networks, and Household Water Burdens in the Horn of Africa
 
-<a class="paper-draft-link" href="/files/hargeisa-working-paper.pdf">Draft (PDF)</a>
-<br><span class="authors-inline">With Abdiaziz Ali Ahmed, Hernan Bejarano, Jingshu Chen, Kenneth Lee, Alejandro López-Aguilar, and Paulina Oliva</span>
+<p class="paper-meta">with Abdiaziz Ali Ahmed, Hernan Bejarano, Jingshu Chen, Kenneth Lee, Alejandro López-Aguilar, and Paulina Oliva</p>
+<p class="paper-links-row"><a href="/files/hargeisa-working-paper.pdf">Draft (PDF)</a></p>
 
 <details class="paper-abstract">
 <summary>Abstract</summary>
@@ -59,11 +59,12 @@ title: "Research"
 
 ### Rainwater Harvesting in Urban Settings as a Response to Water Shortages
 
-<span class="paper-stage stage-fieldwork">Fieldwork Implementation</span> <span class="authors-inline">With Paulina Oliva, Alejandro Lopez, Hernan Bejarano</span>
+<p class="paper-meta">with Hernan Bejarano, Alejandro López-Aguilar, and Paulina Oliva</p>
+<p class="paper-status">Randomized evaluation in Mexico City; fieldwork ongoing. <a href="https://www.socialscienceregistry.org/trials/16891" target="_blank" rel="noopener">AEA RCT Registry</a></p>
 
 <details class="paper-abstract">
 <summary>Abstract</summary>
-<p>We will investigate the extent to which Rainwater Harvesting Systems (RWH) installed in households can reduce water insecurity in Mexico City, as well as the role of its regular maintenance in delivering these benefits. In our full-scale study, our first objective is to investigate whether ownership of a functioning RWH changes water consumption patterns, either by increasing the total amount of water consumed, or by reducing water demands from the network, or both. Our second objective is to investigate whether maintenance of the RWH plays a role in water capture and whether we can overcome the barriers to proper maintenance by providing training. In addition to differences in water quantity, we will measure water quality, time allocation (especially of women and youth), and expenses.</p>
+<p>We investigate the extent to which rainwater harvesting systems (RWH) installed in households can reduce water insecurity in Mexico City, as well as the role of regular maintenance in delivering these benefits. Our first objective is to investigate whether ownership of a functioning RWH changes water consumption patterns, either by increasing the total amount of water consumed, by reducing water demands from the network, or both. Our second objective is to investigate whether maintenance of the RWH plays a role in water capture and whether we can overcome the barriers to proper maintenance by providing training. In addition to differences in water quantity, we measure water quality, time allocation (especially of women and youth), and expenses.</p>
 </details>
 
 </div>
@@ -72,7 +73,8 @@ title: "Research"
 
 ### Dynamic Pricing as an Efficiency Tool in Uganda’s Electric Boda-Boda Network
 
-<span class="paper-stage stage-exploring">Data Agreement Signed</span> <span class="authors-inline">With Mychaela Paetow, Santiago Di Martini</span>
+<p class="paper-meta">with Santiago Di Martini and Mychaela Paetow</p>
+<p class="paper-status">Data-sharing agreement in place.</p>
 
 </div>
 
@@ -80,7 +82,8 @@ title: "Research"
 
 ### Decentralized Water Solutions for Rapidly Growing Cities: Evidence from Hargeisa
 
-<span class="paper-stage stage-pilot">Pilot development</span> <span class="authors-inline">With Paulina Oliva, Alejandro López-Aguilar, Hernan Bejarano, Jingshu Chen, Abdiaziz Ali Ahmed, and Kenneth Lee</span>
+<p class="paper-meta">with Abdiaziz Ali Ahmed, Hernan Bejarano, Jingshu Chen, Kenneth Lee, Alejandro López-Aguilar, and Paulina Oliva</p>
+<p class="paper-status">Pilot in development.</p>
 
 </div>
 
@@ -88,7 +91,8 @@ title: "Research"
 
 ### Cities on Alert: Risk and Urban Development in Brazil
 
-<span class="paper-stage stage-analysis">Data assembly</span> <span class="authors-inline">With Bruno Barsanetti and Pedro H. Chaves</span>
+<p class="paper-meta">with Bruno Barsanetti and Pedro H. Chaves</p>
+<p class="paper-status">Data assembly in progress.</p>
 
 </div>
 
@@ -96,7 +100,7 @@ title: "Research"
 
 ### Informal Settlements and Natural Disaster Risk: Experimental Evidence from Medellín
 
-<span class="paper-stage stage-exploring">Exploratory</span>
+<p class="paper-status">Exploratory.</p>
 
 </div>
 
@@ -104,10 +108,10 @@ title: "Research"
 
 <div class="paper">
 
-### <a href="https://publications.iadb.org/en/inclusive-cities-healthy-cities-all" target="_blank">Spatial Health Inequality in Latin American Cities: Magnitude, Drivers, and Policy Alternatives</a>
+### <a href="https://publications.iadb.org/en/inclusive-cities-healthy-cities-all" target="_blank" rel="noopener">Spatial Health Inequality in Latin American Cities: Magnitude, Drivers, and Policy Alternatives</a>
 
-<span class="venue-inline">Inclusive Cities: Healthy Cities for All (2022). pp. 37–59. Inter-American Development Bank.</span>
-<br><span class="authors-inline">With Juan Pablo Chauvin</span>
+<p class="paper-meta">with Juan Pablo Chauvin</p>
+<p class="paper-venue">In <em>Inclusive Cities: Healthy Cities for All</em>, edited by Nora Libertun, pp. 37–59. Inter-American Development Bank, 2022.</p>
 
 <details class="paper-abstract">
 <summary>Abstract</summary>

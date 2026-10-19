@@ -764,3 +764,22 @@ img { max-width: 100%; height: auto; }
   }
 
 }
+
+/* ============================================
+   Research page: plain-text metadata lines
+   (authors, status, venue) instead of badges
+   ============================================ */
+.paper .paper-meta,
+.paper .paper-status,
+.paper .paper-venue,
+.paper .paper-links-row {
+  font-size: 0.9rem;
+  color: var(--text-secondary);
+  margin: 0 0 0.3rem;
+  line-height: 1.6;
+}
+
+.paper .paper-status { font-style: italic; }
+.paper .paper-status a { font-style: normal; }
+.paper .paper-links-row a { font-weight: 600; }
+.paper h3 { margin-bottom: 0.45rem; }
