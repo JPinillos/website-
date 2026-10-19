@@ -9,7 +9,6 @@ title: "Research"
 ### Long-Term Effects of Slum Upgrading on Climate Resilience and Urban Growth
 
 <p class="paper-status">Updated draft coming soon.</p>
-<p class="paper-links-row"><a href="https://dornsife.usc.edu/wrigley/2024/08/23/impact-of-slum-upgrading-natural-disasters-in-medellin/" target="_blank" rel="noopener">Fieldwork in Medellín</a> · USC Wrigley Institute, 2024</p>
 
 <div class="paper-disclosures">
 <details class="paper-abstract">
@@ -31,6 +30,13 @@ title: "Research"
 <ul>
 <li>Latin American Urban Economics Network (LAUrban), CAF Montevideo</li>
 <li>Second Mexico City Urban Economics Workshop, Banco de México</li>
+</ul>
+</details>
+
+<details class="paper-presentations paper-media">
+<summary>Media</summary>
+<ul>
+<li><a href="https://dornsife.usc.edu/wrigley/2024/08/23/impact-of-slum-upgrading-natural-disasters-in-medellin/" target="_blank" rel="noopener">The Long-Term Impact of Slum Upgrading on Vulnerability to Natural Disasters in Medellín</a>. USC Wrigley Institute blog, August 2024.</li>
 </ul>
 </details>
 </div>
