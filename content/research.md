@@ -8,7 +8,7 @@ title: "Research"
 
 ### Long-Term Effects of Slum Upgrading on Climate Resilience and Urban Growth
 
-<p class="paper-links-row"><a href="/files/slums_jmp.pdf" target="_blank" rel="noopener">Paper (PDF)</a></p>
+<p class="paper-links-row"><a href="/files/slums_jmp.pdf?v=2026-10-19" target="_blank" rel="noopener">Paper (PDF)</a></p>
 
 <div class="paper-disclosures">
 <details class="paper-abstract">
