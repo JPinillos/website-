@@ -30,6 +30,7 @@ title: "Research"
 <ul>
 <li>Latin American Urban Economics Network (LAUrban), CAF Montevideo</li>
 <li>Second Mexico City Urban Economics Workshop, Banco de México</li>
+<li>Southern California Graduate Conference in Applied Economics (SOCAE), UC Santa Barbara</li>
 </ul>
 </details>
 
