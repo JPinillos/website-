@@ -115,10 +115,12 @@ title: "Research"
 
 <div class="paper">
 
-### <a href="https://publications.iadb.org/en/inclusive-cities-healthy-cities-all" target="_blank" rel="noopener">Spatial Health Inequality in Latin American Cities: Magnitude, Drivers, and Policy Alternatives</a>
+### <a href="/files/Chauvin_Pinillos_2022_Spatial_Health_Inequality.pdf" target="_blank" rel="noopener">Spatial Health Inequality in Latin American Cities: Magnitude, Drivers, and Policy Alternatives</a>
 
 <p class="paper-meta">with Juan Pablo Chauvin</p>
-<p class="paper-venue">In <em>Inclusive Cities: Healthy Cities for All</em>, edited by Nora Libertun, pp. 37–59. Inter-American Development Bank, 2022.</p>
+<p class="paper-venue">Inter-American Development Bank, 2022.</p>
+
+<p class="paper-links-row"><a href="/files/Chauvin_Pinillos_2022_Spatial_Health_Inequality.pdf" target="_blank" rel="noopener">Chapter (PDF)</a> · <a href="https://publications.iadb.org/en/inclusive-cities-healthy-cities-all" target="_blank" rel="noopener">Full book</a></p>
 
 <details class="paper-abstract">
 <summary>Abstract</summary>
