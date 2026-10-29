@@ -128,3 +128,14 @@ title: "Research"
 </details>
 
 </div>
+
+<div class="paper">
+
+### <a href="/files/CIAT50_The_Impacts_of_CIATs_Collaborative_Research.pdf" target="_blank" rel="noopener">The Impacts of CIAT’s Collaborative Research</a>
+
+<p class="paper-meta">with Ricardo Labarta, Robert Andrade, Diego Marín, Tatiana Rivera, and Mayra Orrego</p>
+<p class="paper-venue">CIAT, 2017. Impact brief.</p>
+
+<p class="paper-links-row"><a href="/files/CIAT50_The_Impacts_of_CIATs_Collaborative_Research.pdf" target="_blank" rel="noopener">Brief (PDF)</a></p>
+
+</div>
