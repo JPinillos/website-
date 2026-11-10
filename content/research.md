@@ -25,6 +25,7 @@ title: "Research"
 <li>Urban Economics Association Meeting, Federal Reserve Bank of Chicago</li>
 <li>Economics Seminar, Universidad ICESI, Colombia</li>
 <li>AREUEA International Conference, Universidad EAFIT, Medellín</li>
+<li>UCI–UCLA–USC Workshop on Urban and Real Estate Economics, November 2026 (selected for presentation, unable to attend)</li>
 </ul>
 <h4>Upcoming</h4>
 <ul>
