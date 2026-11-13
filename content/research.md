@@ -9,6 +9,7 @@ title: "Research"
 ### Long-Term Effects of Slum Upgrading on Climate Resilience and Urban Growth
 
 <p class="paper-links-row"><a href="/files/slums_jmp.pdf?v=2026-10-24" target="_blank" rel="noopener">Paper (PDF)</a></p>
+<p class="paper-funding">Funding · USC Wrigley Institute · USC Lusk Center for Real Estate · USC Department of Economics</p>
 
 <div class="paper-disclosures">
 <details class="paper-abstract">
@@ -53,6 +54,7 @@ title: "Research"
 
 <p class="paper-meta">with Abdiaziz Ali Ahmed, Hernan Bejarano, Jingshu Chen, Kenneth Lee, Alejandro López-Aguilar, and Paulina Oliva</p>
 <p class="paper-links-row"><a href="/files/hargeisa-working-paper.pdf">Draft (PDF)</a></p>
+<p class="paper-funding">Funding · Pharo Foundation</p>
 
 <details class="paper-abstract">
 <summary>Abstract</summary>
@@ -69,6 +71,7 @@ title: "Research"
 
 <p class="paper-meta">with Hernan Bejarano, Alejandro López-Aguilar, and Paulina Oliva</p>
 <p class="paper-status">Randomized evaluation in Mexico City; fieldwork ongoing. <a href="https://www.socialscienceregistry.org/trials/16891" target="_blank" rel="noopener">AEA RCT Registry</a></p>
+<p class="paper-funding">Funding · J-PAL KCAI</p>
 
 <details class="paper-abstract">
 <summary>Abstract</summary>
@@ -83,6 +86,7 @@ title: "Research"
 
 <p class="paper-meta">with Santiago Di Martini and Mychaela Paetow</p>
 <p class="paper-status">Data-sharing agreement in place.</p>
+<p class="paper-funding">Funding · PEDL · CEGA</p>
 
 </div>
 
@@ -109,6 +113,7 @@ title: "Research"
 ### Informal Settlements and Natural Disaster Risk: Experimental Evidence from Medellín
 
 <p class="paper-status">Exploratory.</p>
+<p class="paper-funding">Funding · Innovations for Poverty Action (IPA)</p>
 
 </div>
 
