@@ -27,12 +27,12 @@ title: "Research"
 <li>Economics Seminar, Universidad ICESI, Colombia</li>
 <li>AREUEA International Conference, Universidad EAFIT, Medellín</li>
 <li>UCI–UCLA–USC Workshop on Urban and Real Estate Economics, November 2026 (selected for presentation, unable to attend)</li>
+<li>Second Mexico City Urban Economics Workshop, Banco de México</li>
+<li>Southern California Graduate Conference in Applied Economics (SOCAE), UC Santa Barbara</li>
 </ul>
 <h4>Upcoming</h4>
 <ul>
 <li>Latin American Urban Economics Network (LAUrban), CAF Montevideo</li>
-<li>Second Mexico City Urban Economics Workshop, Banco de México</li>
-<li>Southern California Graduate Conference in Applied Economics (SOCAE), UC Santa Barbara</li>
 </ul>
 </details>
 
