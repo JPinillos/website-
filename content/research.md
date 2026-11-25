@@ -71,7 +71,7 @@ title: "Research"
 
 <p class="paper-meta">with Hernan Bejarano, Alejandro López-Aguilar, and Paulina Oliva</p>
 <p class="paper-status">Randomized evaluation in Mexico City; fieldwork ongoing. <a href="https://www.socialscienceregistry.org/trials/16891" target="_blank" rel="noopener">AEA RCT Registry</a></p>
-<p class="paper-funding">Funding · J-PAL KCAI</p>
+<p class="paper-funding">Funding · <strong>$435,169</strong> · J-PAL KCAI · USC President’s Sustainability · USC Wrigley Institute for Environment and Sustainability · USC Department of Economics</p>
 
 <details class="paper-abstract">
 <summary>Abstract</summary>
@@ -86,7 +86,8 @@ title: "Research"
 
 <p class="paper-meta">with Santiago Di Martini and Mychaela Paetow</p>
 <p class="paper-status">Data-sharing agreement in place.</p>
-<p class="paper-funding">Funding · PEDL · CEGA</p>
+<!-- USD estimate uses CEGA $8,145 plus CEPR/PEDL £10,866 at 1 GBP = 1.3115 USD (November 24, 2026). Source: https://www.investing.com/currencies/gbp-usd-historical-data -->
+<p class="paper-funding">Funding · <strong>Approximately $22,396</strong> · CEGA · CEPR/PEDL</p>
 
 </div>
 
@@ -113,7 +114,7 @@ title: "Research"
 ### Informal Settlements and Natural Disaster Risk: Experimental Evidence from Medellín
 
 <p class="paper-status">Exploratory.</p>
-<p class="paper-funding">Funding · Innovations for Poverty Action (IPA)</p>
+<p class="paper-funding">Funding · <strong>$18,717</strong> · Innovations for Poverty Action (IPA)</p>
 
 </div>
 
