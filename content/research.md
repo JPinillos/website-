@@ -87,7 +87,7 @@ title: "Research"
 <p class="paper-meta">with Santiago Di Martini and Mychaela Paetow</p>
 <p class="paper-status">Data-sharing agreement in place.</p>
 <!-- USD estimate uses CEGA $8,145 plus CEPR/PEDL £10,866 at 1 GBP = 1.3115 USD (November 24, 2026). Source: https://www.investing.com/currencies/gbp-usd-historical-data -->
-<p class="paper-funding">Funding · <strong>Approximately $22,396</strong> · CEGA · CEPR/PEDL</p>
+<p class="paper-funding">Funding · <strong>$22,396</strong> · CEGA · CEPR/PEDL</p>
 
 </div>
 
