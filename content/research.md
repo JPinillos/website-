@@ -28,7 +28,7 @@ title: "Research"
 <li>AREUEA International Conference, Universidad EAFIT, Medellín</li>
 <li>UCI–UCLA–USC Workshop on Urban and Real Estate Economics, November 2026 (selected for presentation, unable to attend)</li>
 <li>Second Mexico City Urban Economics Workshop, Banco de México</li>
-<li>Southern California Graduate Conference in Applied Economics (SOCAE), UC Santa Barbara — Best Macroeconomics Paper of the Conference (tie)</li>
+<li>Southern California Graduate Conference in Applied Economics (SOCAE), UC Santa Barbara — Best Paper of the Conference (Macro Track)</li>
 </ul>
 <h4>Upcoming</h4>
 <ul>
